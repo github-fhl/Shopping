@@ -1,0 +1,19 @@
+#575A62  #2D2E32
+#94193f 红色
+#444851
+FBFCFD
+FBFBFB背景色
+
+
+
+							<li>
+								<div class="hotbtm_child">
+									
+								</div>
+								<a href="#"><img src="img/68.jpg" alt="" width='100%'></a>
+								<p id='summary'>比暖男更加暖</p>
+								<p id='description'><a href="#">韩束墨菊咕噜水补水套组</a></p>
+								<p id="price">
+									￥328<del>￥598</del>
+								</p>
+							</li>
